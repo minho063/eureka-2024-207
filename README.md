@@ -1,38 +1,19 @@
-# Welcome to GitHub
-
-유레카 프로젝트 팀 생성을 축하합니다.  
-
-가나다라마바사
-
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
-
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>유레카 프로젝트</title>
+</head>
+<body>
+    <h1>유레카 프로젝트 팀 생성 🎉</h1>
+    <p>안녕하세요! 저희는 <strong>유레카 프로젝트</strong>의 <strong>2024년 2분반 7조</strong>입니다.</p>
+    <ul>
+        <li><strong>분반:</strong> 2분반</li>
+        <li><strong>팀 번호:</strong> 207조</li>
+        <li><strong>페이지 주소:</strong> <a href="https://kookmin-sw-eureka.github.io/eureka-2024-207/">https://kookmin-sw-eureka.github.io/eureka-2024-207/</a></li>
+    </ul>
+    <h2>📖 프로젝트 소개</h2>
+    <p>우리 팀은 **인공지능을 활용한 문제 해결**에 대해 연구하고 있습니다.</p>
+</body>
+</html>
